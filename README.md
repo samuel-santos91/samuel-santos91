@@ -1,15 +1,15 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
-  ### Hi, I'm Sam 👋
+  # Hi, I'm Sam 👋
 
   <a href="https://www.linkedin.com/in/samuel-santos-webdev/?profileId=ACoAACQMsI0Bf5sG7pV4BwaOJx4Fnesnp6MI68g" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a/>
+  </a>
   <a href="https://sam-portfolio-project.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-  <a/>  
+  </a>
 </div>
 
 
