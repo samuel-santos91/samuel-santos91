@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**samuel-santos91/samuel-santos91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  
+  ### Hi, I'm Sam 👋
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/samuel-santos-webdev/?profileId=ACoAACQMsI0Bf5sG7pV4BwaOJx4Fnesnp6MI68g">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Frontend
+
+## Backend
+
+## Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Testing
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-santos91&theme=dark&langs_count=20&layout=donut-vertical)](https://github.com/samuel-santos91/github-readme-stats)
